@@ -2,15 +2,15 @@
   "home": {
     "highlights": [
       {
-        "id": "new-adventure-01",
+        "id": "summer-01",
         "title": "Summer Peaks",
         "imageUrl": "https://images.unsplash.com/your-image.jpg",
         "trailId": "fobello-colma"
       }
     ],
-    "anouncements": [
+    "announcements": [
       {
-        "id": "new-adventure-01",
+        "id": "alpaa-01",
         "title": "Alpa",
         "date": "02/04/2026",
         "description": "Important Update for 2026: While originally scheduled for July 10–19 to celebrate its historic 50th edition, the Comitato Alpàa announced in late March 2026 that the edition has been canceled due to a significant reduction in public funding"
