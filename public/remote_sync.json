@@ -9,6 +9,16 @@
       }
     ]
   },
+  "explore": {
+    "highlights": [
+      {
+        "id": "new-adventure-01",
+        "title": "Summer Peaks",
+        "imageUrl": "https://images.unsplash.com/your-image.jpg",
+        "trailId": "fobello-colma"
+      }
+    ]
+  },
   "library_extension": [
     {
       "id": "ext-01",
